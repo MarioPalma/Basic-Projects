@@ -5,7 +5,6 @@ from tkinter import messagebox
 
 Interfaz = Tk()
 Interfaz.title("Calculadora")
-Interfaz.iconbitmap("C:/Users/mario/Downloads/JP.png")
 Interfaz.resizable("False", "False")
 Interfaz.config(bg="grey")
 
