@@ -4,7 +4,7 @@ from tkinter import messagebox
 #================================================================ BÁSICOS DE LA CALCULADORA
 
 Interfaz = Tk()
-Interfaz.title("Calculadora")
+Interfaz.title("Calculator")
 Interfaz.resizable("False", "False")
 Interfaz.config(bg="grey")
 
