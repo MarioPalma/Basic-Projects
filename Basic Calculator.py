@@ -133,4 +133,3 @@ BotonDiv.grid(row = 1, column = 3, padx = 5, pady = 5)
 #============================================================== Fin
 
 Interfaz.mainloop()
-
